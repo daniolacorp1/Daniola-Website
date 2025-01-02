@@ -42,7 +42,7 @@ export const data: Data = {
   newEra: {
     heading: "A New Era of Trade.",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus in libero risus semper habitant arcu eget. Et integer facilisi eget diam.Lorem ipsum dolor",
+      "Revolutionizing the global commodity trade with AI-powered tools, ethical practices, and seamless connections between buyers and suppliers. Join us in shaping a smarter, more transparent future for trading.",
     button: "Explore",
     topImages: ["/newerra/left.png", "/newerra/right.png"],
     bottomImage: "/newerra/bottom.png",
@@ -76,21 +76,21 @@ export const data: Data = {
         title: "How Daniola Works",
         image: "/howitwork/step1.png",
         description:
-          "Lorem ipsum dolor sit amet elit, consectetur adipiscing elit cursus imperdiet ementum Quam aliquam. Quam vel aliquam sit vulputate.",
+          "Daniola streamlines commodity trading by connecting suppliers and buyers with verified listings, transparent transactions, and AI-powered insights to make smarter, faster deals.",
       },
       {
         id: 2,
         title: "For Buyers",
         image: "/howitwork/buyers.png",
         description:
-          "Lorem ipsum dolor sit amet elit, consectetur adipiscing elit cursus imperdiet ementum Quam aliquam. Quam vel aliquam sit vulputate.",
+          "Create your profile and specify your trading needs—whether you’re buying or selling, Daniola tailors the experience to your goals.",
       },
       {
         id: 3,
         title: "For Suppliers",
         image: "/howitwork/supplier.png",
         description:
-          "Lorem ipsum dolor sit amet elit, consectetur adipiscing elit cursus imperdiet ementum Quam aliquam. Quam vel aliquam sit vulputate.",
+          "Browse verified listings or post your own. Daniola ensures ethical practices and transparency at every step.",
       },
     ],
   },
@@ -140,11 +140,12 @@ export const data: Data = {
     },
     contact: {
       title: "Contact",
-      email: "support@daniola.com",
-      phone: "+1-800-123-4567",
+      email: "team@daniolacorp.com",
+      phone: "+1 (403) 618 – 1278",
       address: {
-        line1: "123 Trade Street,",
-        line2: "Suite 500, Global City",
+        line1: "3582 30 Street,",
+        line2: "N. Lethbridge, AB. T1H 6Z4
+Canada",
       },
     },
     company: {
