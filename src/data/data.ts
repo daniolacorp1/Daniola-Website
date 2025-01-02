@@ -150,7 +150,7 @@ export const data: Data = {
     company: {
       logo: "/logo.png",
       tagline: "Empowering ethical trade for a sustainable future.",
-      copyright: "© 2024 Daniola. All Rights Reserved.",
+      copyright: "© 2025 Daniola. All Rights Reserved.",
     },
   },
 };
