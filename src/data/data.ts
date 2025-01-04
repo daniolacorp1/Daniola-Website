@@ -39,28 +39,28 @@ export const data: Data = {
     ],
   },
 
- newEra: {
-  heading: "A New Era of Trade.",
-  description:
-    "Revolutionizing the global commodity trade with AI-powered tools, ethical practices, and seamless connections between buyers and suppliers. Join us in shaping a smarter, more transparent future for trading.",
-  button: "Explore",
-  topImages: ["/newerra/left.png", "/newerra/right.png"],
-  bottomImage: "/newerra/bottom.png"],
-  features: [
-    {
-      id: 1,
-      title: "Ethical Trade Practices",
-    },
-    {
-      id: 2,
-      title: "Seamless AI-Powered Transactions",
-    },
-    {
-      id: 3,
-      title: "End-to-End Transparency",
-    },
-  ],
-},
+  newEra: {
+    heading: "A New Era of Trade.",
+    description:
+      "Revolutionizing the global commodity trade with AI-powered tools, ethical practices, and seamless connections between buyers and suppliers. Join us in shaping a smarter, more transparent future for trading.",
+    button: "Explore",
+    topImages: ["/newerra/left.png", "/newerra/right.png"],
+    bottomImage: "/newerra/bottom.png",  // Fixed: Removed extra bracket
+    features: [
+      {
+        id: 1,
+        title: "Ethical Trade Practices",
+      },
+      {
+        id: 2,
+        title: "Seamless AI-Powered Transactions",
+      },
+      {
+        id: 3,
+        title: "End-to-End Transparency",
+      },
+    ],
+  },
 
   discover: {
     heading: "Redefining Commodity Trade with AI-Driven Solutions",
@@ -83,7 +83,7 @@ export const data: Data = {
         title: "For Buyers",
         image: "/howitwork/buyers.png",
         description:
-          "Create your profile and specify your trading needs—whether you’re buying or selling, Daniola tailors the experience to your goals.",
+          "Create your profile and specify your trading needs—whether you're buying or selling, Daniola tailors the experience to your goals.",
       },
       {
         id: 3,
@@ -100,7 +100,7 @@ export const data: Data = {
     testimonials: [
       {
         quote:
-          "Daniola has transformed how I do business. With transparent pricing tools and verified sustainability claims, I’m closing deals faster than ever.",
+          "Daniola has transformed how I do business. With transparent pricing tools and verified sustainability claims, I'm closing deals faster than ever.",
         image: "/testimonials/rajesh.png",
         name: "Rajesh Kumar",
         position: "Small-Scale Miner",
@@ -144,8 +144,7 @@ export const data: Data = {
       phone: "+1 (403) 618 – 1278",
       address: {
         line1: "3582 30 Street,",
-        line2: "N. Lethbridge, AB. T1H 6Z4
-Canada",
+        line2: "N. Lethbridge, AB. T1H 6Z4\nCanada",
       },
     },
     company: {
