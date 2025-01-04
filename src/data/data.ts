@@ -39,28 +39,28 @@ export const data: Data = {
     ],
   },
 
-  newEra: {
-    heading: "A New Era of Trade.",
-    description:
-      "Revolutionizing the global commodity trade with AI-powered tools, ethical practices, and seamless connections between buyers and suppliers. Join us in shaping a smarter, more transparent future for trading.",
-    button: "Explore",
-    topImages: ["/newerra/left.png", "/newerra/right.png"],
-    bottomImage: "/newerra/bottom.png",
-    features: [
-      {
-        id: 1,
-        title: "Ethical Trade Practices",
-      },
-      {
-        id: 2,
-        title: "Seamless AI-Powered Transactions",
-      },
-      {
-        id: 3,
-        title: "End-to-End Transparency",
-      },
-    ],
-  },
+ newEra: {
+  heading: "A New Era of Trade.",
+  description:
+    "Revolutionizing the global commodity trade with AI-powered tools, ethical practices, and seamless connections between buyers and suppliers. Join us in shaping a smarter, more transparent future for trading.",
+  button: "Explore",
+  topImages: ["/newerra/left.png", "/newerra/right.png"],
+  bottomImage: "/newerra/bottom.png"],
+  features: [
+    {
+      id: 1,
+      title: "Ethical Trade Practices",
+    },
+    {
+      id: 2,
+      title: "Seamless AI-Powered Transactions",
+    },
+    {
+      id: 3,
+      title: "End-to-End Transparency",
+    },
+  ],
+},
 
   discover: {
     heading: "Redefining Commodity Trade with AI-Driven Solutions",
